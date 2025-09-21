@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+[Your+Name]!;Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" />
 </p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,python&theme=dark" height="18" alt="tech icons" />
+</p>
 <p align="center">
   👨‍💻 <b>Role:</b> Full Stack Developer & Open Source Contributor<br>
   🌱 <b>Currently Learning:</b> Rust, Next.js, DevOps<br>
@@ -24,6 +26,4 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 <!-- Small inline skill icons (no labels). Paste this into your README.md -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,python&theme=dark" height="18" alt="tech icons" />
-</p>
+
