@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,next,tailwind,nodejs,express,django,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,python&theme=dark" />
 </p>
