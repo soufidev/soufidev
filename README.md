@@ -10,7 +10,7 @@
 ## 💡 About Me
 <p align="center">
 👨‍💻 Full Stack Developer & Open Source Enthusiast<br>
-🌱 Currently learning: Rust, Next.js, DevOps<br>
+🌱 Currently learning: react, Next.js, node.js<br>
 ⚡ Fun fact: I turn coffee ☕ into code 💻
 </p>
 
