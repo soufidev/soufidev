@@ -48,3 +48,9 @@
 
 
 ⭐️ Don’t forget to check out my projects and give them a star!
+<!-- Small inline skill icons (no labels). Paste this into your README.md -->
+##
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,python&theme=dark" height="18" alt="tech icons" />
+</p>
+
