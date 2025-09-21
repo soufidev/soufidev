@@ -16,3 +16,10 @@ interests: [Web Development, Open Source, AI, Linux]
 currently_learning: [Rust, Next.js, DevOps]
 fun_fact: "I turn coffee ☕ into code 💻"
 ```
+{
+  "languages": ["Python", "JavaScript", "TypeScript", "C++"],
+  "frontend": ["React", "Next.js", "TailwindCSS"],
+  "backend": ["Node.js", "Express", "Django"],
+  "devops": ["Docker", "Linux", "GitHub Actions"],
+  "databases": ["PostgreSQL", "MongoDB", "Redis"]
+}
