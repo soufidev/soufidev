@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Enthusiast;Web+Technologies" />
 </p>
 
----
 
 ## 💡 About Me
 <p align="center">
@@ -15,14 +14,14 @@
 ⚡ Fun fact: I turn coffee ☕ into code 💻
 </p>
 
----
+
 
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,python&theme=dark" height="18" alt="tech icons" />
 </p>
 
----
+
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -37,6 +36,6 @@
   </a>
 </p>
 
----
+
 
 ⭐️ Don’t forget to check out my projects and give them a star!
