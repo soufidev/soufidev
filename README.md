@@ -15,7 +15,6 @@ role: Full Stack Developer
 interests: [Web Development, Open Source, AI, Linux]
 currently_learning: [Rust, Next.js, DevOps]
 fun_fact: "I turn coffee ☕ into code 💻"
-```
 {
   "languages": ["Python", "JavaScript", "TypeScript", "C++"],
   "frontend": ["React", "Next.js", "TailwindCSS"],
@@ -23,3 +22,5 @@ fun_fact: "I turn coffee ☕ into code 💻"
   "devops": ["Docker", "Linux", "GitHub Actions"],
   "databases": ["PostgreSQL", "MongoDB", "Redis"]
 }
+```
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,react,next,tailwind,nodejs,express,django,docker,linux,git,github,postgres,mongodb,redis&theme=dark" /> </p>
