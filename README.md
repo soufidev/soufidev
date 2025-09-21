@@ -15,6 +15,7 @@ role: Full Stack Developer
 interests: [Web Development, Open Source, AI, Linux]
 currently_learning: [Rust, Next.js, DevOps]
 fun_fact: "I turn coffee ☕ into code 💻"
+```
 🛠️ Tech Stack
 {
   "languages": ["Python", "JavaScript", "TypeScript", "C++"],
