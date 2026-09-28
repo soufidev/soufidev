@@ -41,10 +41,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soufidev&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soufidev&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soufidev&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=soufidev&theme=radical" height="160" />
 </p>
-
 
 
 ## 🌐 Connect With Me
