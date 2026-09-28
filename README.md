@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufidev&layout=compact&theme=radical" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=soufidev&theme=dark" />
 </p>
 
 <p align="center">
@@ -41,10 +41,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soufidev&show_icons=true&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=soufidev&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=soufidev&theme=radical&hide_border=true" width="495" />
 </p>
-
 
 ## 🌐 Connect With Me
 <p align="center">
